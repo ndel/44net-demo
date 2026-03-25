@@ -34,10 +34,14 @@ This project demonstrates the ability to integrate a **modern frontend with a cl
 ### Backend (PHP)
 
 1. Open terminal and go to backend folder:
+```
 cd 44net-php-backend
+```
 
 2. Start PHP dev server:
+```
 php -S 0.0.0.0:8000
+```
 API endpoints:
 http://127.0.0.1:8000/api/get_nodes.php
 http://127.0.0.1:8000/api/update_nodes.php
@@ -46,10 +50,14 @@ http://127.0.0.1:8000/api/update_nodes.php
 ### Frontend (Next.js + Tailwind)
 
 1. Go to frontend folder:
+```
 cd 44net-frontend
 npm install
+```
 2. Start the development server:
+```
 npm run dev
+```
 3. Open browser: http://localhost:3000
 Click Simulate Update to randomly change node statuses.
 
