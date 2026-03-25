@@ -34,14 +34,6 @@ This project demonstrates the ability to integrate a **modern frontend with a cl
 ### Backend (PHP)
 
 1. Open terminal and go to backend folder:
-
----
-
-## Installation & Run Locally
-
-### Backend (PHP)
-
-1. Open terminal and go to backend folder:
 cd 44net-php-backend
 
 2. Start PHP dev server:
