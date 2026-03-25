@@ -54,11 +54,11 @@ npm run dev
 Click Simulate Update to randomly change node statuses.
 
 Features
-Real-time updates: Nodes auto-refresh every 5 seconds
-Simulate updates: Randomly switch node status between online and offline
-Color-coded status: Green = online, Red = offline
-Full-stack demo: Shows integration between PHP backend and Next.js frontend
-Lightweight: JSON file backend, no database required
+1. Real-time updates: Nodes auto-refresh every 5 seconds
+2. Simulate updates: Randomly switch node status between online and offline
+3. Color-coded status: Green = online, Red = offline
+4. Full-stack demo: Shows integration between PHP backend and Next.js frontend
+5. Lightweight: JSON file backend, no database required
 
 Notes
 This is a demo project for ARDC applications
