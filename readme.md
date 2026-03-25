@@ -43,8 +43,8 @@ cd 44net-php-backend
 php -S 0.0.0.0:8000
 ```
 API endpoints:
-http://127.0.0.1:8000/api/get_nodes.php
-http://127.0.0.1:8000/api/update_nodes.php
+- http://127.0.0.1:8000/api/get_nodes.php
+- http://127.0.0.1:8000/api/update_nodes.php
 
 
 ### Frontend (Next.js + Tailwind)
