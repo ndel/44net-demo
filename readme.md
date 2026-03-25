@@ -60,10 +60,10 @@ Features
 4. Full-stack demo: Shows integration between PHP backend and Next.js frontend
 5. Lightweight: JSON file backend, no database required
 
-Notes
-This is a demo project for ARDC applications
-Designed to showcase full-stack skills with minimal setup
-Fully open source and can be cloned or extended for testing
+Notes:
+1. This is a demo project for ARDC applications
+2. Designed to showcase full-stack skills with minimal setup
+3. Fully open source and can be cloned or extended for testing
 
 License
-This project is provided for demonstration purposes only.
+- This project is provided for demonstration purposes only.
