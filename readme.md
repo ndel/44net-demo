@@ -14,7 +14,7 @@ This is a demo dashboard for the **ARDC 44Net** program, showcasing:
 This project demonstrates the ability to integrate a **modern frontend with a classic backend**, a key skill for ARDC 44Net development.
 
 ---
-
+```
 ## Project Structure
 44net-demo/
 ├─ 44net-frontend/ # Next.js + TypeScript frontend
@@ -25,7 +25,7 @@ This project demonstrates the ability to integrate a **modern frontend with a cl
 │ ├─ update_nodes.php
 │ └─ nodes.json
 └─ README.md
-
+```
 
 ---
 
@@ -61,9 +61,9 @@ Features
 5. Lightweight: JSON file backend, no database required
 
 Notes:
-1. This is a demo project for ARDC applications
-2. Designed to showcase full-stack skills with minimal setup
-3. Fully open source and can be cloned or extended for testing
+- This is a demo project for ARDC applications
+- Designed to showcase full-stack skills with minimal setup
+- Fully open source and can be cloned or extended for testing
 
 License
 - This project is provided for demonstration purposes only.
